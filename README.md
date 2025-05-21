@@ -23,8 +23,9 @@ Con este análisis, Showz podrá:
 **Maximizar la rentabilidad de cada cliente adquirido**.  
 
 **Herramientas usadas**
--**from scipy import stats as st**
--from matplotlib import pyplot as plt
--import pandas as pd
--import numpy as np
--import seaborn as sns
+-from scipy import stats as st  
+-from matplotlib import pyplot as plt  
+-import pandas as pd  
+-import numpy as np  
+-import seaborn as sns  
+
